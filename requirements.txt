@@ -1,0 +1,4 @@
+# Install into blender: <blender-dir>\3.3\python\bin\python.exe -m pip install -r requirements.txt
+
+Pillow<9.0.0
+wand
